@@ -30,8 +30,8 @@ A production-oriented authentication backend built with FastAPI. It provides use
 
 A typical project layout is shown below:
 
-text
-.
+##text
+`.
 ├── alembic/
 │   ├── versions/
 │   └── env.py
@@ -63,6 +63,7 @@ text
 ├── requirements.txt
 └── README.md
 
+`
 
 The exact module names may vary, but authentication, configuration, database, and transport concerns should remain separated.
 
